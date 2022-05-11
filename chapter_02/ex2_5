@@ -1,0 +1,3 @@
+name = "apocrypha doubtberg"
+quote = '"Honestly, sand isn\'t so bad. Kind of gives food an earthy kick if you really try it out."'
+print("My hero, legendary national poet " + name.title() + " once said " + quote + " This inspired me to become the world's best software engineer.")
