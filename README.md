@@ -14,3 +14,6 @@ Your version of python will likely come with python's standard package installer
 Finally, if you have pip installed you should be able to use the command
 `python3 -m pip install -U pygame`
 in your command line to install pygame, but if this does not work and you want more detailed instructions go to https://www.pygame.org/wiki/GettingStarted#Pygame%20Installation
+## Notes
+Most but not all exercises are included. Some that seemed more repetetive(compred to the previous question) and time-intensive than was worthwhile were skipped.  
+**Good luck studying and learning this amazing language!**
