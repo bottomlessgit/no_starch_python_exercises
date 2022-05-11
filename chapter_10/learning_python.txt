@@ -1,0 +1,9 @@
+In Python you can do basic arithmetic.
+In Python you can do basic logical operations.
+In Python you can manipulate strings.
+In Python you can define your own functions.
+In Python you can define your own composite types called "classes".
+In Python you can use an if statement to do a set of operations only if a certain codition is met.
+In Python you can create for loops to repeatedly do operations on a set of objects or for a set number of times.
+In Python you can create while loops to repeat a set of operations until a certain condition is met.
+In Python you can read from and write to text files.
